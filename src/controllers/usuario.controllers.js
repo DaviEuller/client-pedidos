@@ -230,4 +230,8 @@ module.exports = {
     atualizar,
     excluir,
     criar_pedido,
+    atualizar_pedido,
+    listar_pedidos,
+    excluir_pedido
+};
  
